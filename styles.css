@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  height: 100%;
+  background: linear-gradient(90deg, #d3182e 50%, #c02626 50%);
+}
+
+body {
+  background-color: rgb(235, 235, 235);
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  text-shadow: 5px 0 #ee8989;
+  margin: 30px;
+  font-size: 8rem;
+  color: #fbf1f1;
+}
+
+p {
+  font-size: 2rem;
+  color: #faa9a9;
+  font-family: "Lobster", cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: rgb(235, 192, 192);
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
